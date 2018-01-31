@@ -9,15 +9,17 @@ body {
     border-left-style: solid; 
     border-right-style: solid; 
     border-bottom-style: dotted;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
 }
 
 .col-md-6 {
     padding-left: 180px;
+    padding-top: 100px;
 }
 
 button {
     margin-top: 45px;
     color: purple;
     background-color: orchid;
+    padding-top: 20px;
 }

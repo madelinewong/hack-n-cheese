@@ -8,6 +8,8 @@ const lastName = [
     'Estranga',
     'SluggoPants the 3rd',
     'Zamolocksnailcova', 
+    'Slimey',
+    'Peanut',
 ];
 const firstName =[
     'Miss Fame',
@@ -15,6 +17,8 @@ const firstName =[
     'Ru Jeff',
     'Trixie', 
     'Lady Shabley',
+    'Divine', 
+    'Chi Chi',
 ];
 //add your event listeners
 button.addEventListener('click', generateName);
