@@ -3,14 +3,18 @@ const button = document.querySelector('#generateBtn');
 const firstNameEl = document.querySelector('#first');
 const lastNameEl = document.querySelector('#last');
 const lastName = [
-    'Gorgonzola',
-    'Cheddar',
-    'Havarti',
+    'McSlimey',
+    'McSluggo',
+    'Estranga',
+    'SluggoPants the 3rd',
+    'Zamolocksnailcova', 
 ];
 const firstName =[
-    'Neo',
-    'Morpheus',
-    'Trinity',
+    'Miss Fame',
+    'Manlia',
+    'Ru Jeff',
+    'Trixie', 
+    'Lady Shabley',
 ];
 //add your event listeners
 button.addEventListener('click', generateName);
